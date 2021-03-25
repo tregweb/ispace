@@ -409,7 +409,7 @@ h6 {
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
-  background: url("../img/228.png") no-repeat 0px 50px, url("../img/right.png") no-repeat 1000px 0px;
+  background: url("../img/photo_left.jpg") no-repeat 0px 50px, url("../img/right.png") no-repeat 1000px 0px;
 }
 
 .why-we__advantages {
@@ -706,6 +706,6 @@ body {
 
 .webp .background{ background-image: url(../img/fon.webp); }
 
-.webp .why-we__body{ background: url(../img/228.webp) no-repeat 0px 50px, url(../img/right.webp) no-repeat 1000px 0px; }
+.webp .why-we__body{ background: url(../img/photo_left.webp) no-repeat 0px 50px, url(../img/right.webp) no-repeat 1000px 0px; }
 
 .webp .contacts{ background: url(../img/contacts/web-1453834_1920.webp) no-repeat center; }
